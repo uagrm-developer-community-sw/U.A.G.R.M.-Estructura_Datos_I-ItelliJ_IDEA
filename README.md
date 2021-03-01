@@ -85,7 +85,7 @@ Operación mover(int coord X, int coord. y)
 Terminar el TDA complete<br><br><br><br>
 
 # IMAGEN TDA - PRACTICO #1
-![Tarea 1](https://user-images.githubusercontent.com/36086876/103654269-08d8f380-4f3c-11eb-842f-5bfe0d14f68c.PNG)
+![practico 1](https://user-images.githubusercontent.com/36086876/109461636-d4178300-7a38-11eb-8aa5-835bd97d79aa.png)
 
 # AVANCE DE EJERCICIOS EN CLASE # 1<br><br> Tipo de dato Abstracto
 
