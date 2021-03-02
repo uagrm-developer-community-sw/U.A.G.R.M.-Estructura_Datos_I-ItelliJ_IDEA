@@ -3,9 +3,10 @@ import presentaciones.FormularioTdaBoolean;
 import javax.swing.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
+import java.awt.event.ComponentAdapter;
 
 public class FormularioPrincipalTda {
-    private JPanel panel1;
+    private JPanel pnlTdaPractico1;
     private JButton TDABOOLEANButton;
     private JButton TDADUPLAButton;
     private JButton TDASTRINGTEXTOButton;
@@ -22,11 +23,13 @@ public class FormularioPrincipalTda {
                 //ftb.setVisible(true);
             }
         });
+        pnlTdaPractico1.addComponentListener(new ComponentAdapter() {
+        });
     }
 
     public static void main(String[] args) {
         JFrame frame = new JFrame("FormularioPrincipalTda");
-        frame.setContentPane(new FormularioPrincipalTda().panel1);
+        frame.setContentPane(new FormularioPrincipalTda().pnlTdaPractico1);
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.pack();
         frame.setVisible(true);
