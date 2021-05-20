@@ -84,6 +84,14 @@ Operación crear(int coord X, int coord. y);
 Operación mover(int coord X, int coord. y)
 Terminar el TDA complete<br><br><br><br>
 
+# Documentacion
+
+# Examenes:
+
+# Practicas:
+
+# Tareas
+
 # IMAGEN TDA - PRACTICO #1
 ![practico 1](https://user-images.githubusercontent.com/36086876/109461636-d4178300-7a38-11eb-8aa5-835bd97d79aa.png)
 

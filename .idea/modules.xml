@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Examenes/Parciales.iml" filepath="$PROJECT_DIR$/Examenes/Parciales.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practicas/Practicas.iml" filepath="$PROJECT_DIR$/Practicas/Practicas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/U.A.G.R.M.-Estructura_Datos_I-ItelliJ_IDEA.iml" filepath="$PROJECT_DIR$/.idea/U.A.G.R.M.-Estructura_Datos_I-ItelliJ_IDEA.iml" />
+    </modules>
+  </component>
+</project>
