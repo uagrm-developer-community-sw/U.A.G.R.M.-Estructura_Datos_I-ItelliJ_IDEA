@@ -2,9 +2,9 @@
 U.A.G.R.M. | Materia: Estructura de Datos I | Docente: Mario Campos Barrera | Repositorio: Avance de Contenido | Lenguaje: Java | IDE: IntelliJ IDEA
 
 ## IDE: INTELLIJ IDEA
-![intellij-idea_logo_300x300](https://user-images.githubusercontent.com/36086876/106154818-6389f780-6156-11eb-891e-11e44d96e57f.png)
+![Intellij Idea](https://user-images.githubusercontent.com/36086876/119241841-81290580-bb27-11eb-8b68-5dd99b5a67e0.png)
 ## IDE: SDK 1.8.0_271
-![java](https://user-images.githubusercontent.com/36086876/106154871-743a6d80-6156-11eb-860c-4f709d1d8ba4.jpg)
+![ide sdk](https://user-images.githubusercontent.com/36086876/119241874-b6355800-bb27-11eb-919d-d7a92c8ac954.jpg)
 
 > EXAMENES:
 >>[Parcial Nº1 ]()<br>
@@ -18,5 +18,12 @@ U.A.G.R.M. | Materia: Estructura de Datos I | Docente: Mario Campos Barrera | Re
 >>[Practico Nº4 de TDA]()<br>
 >>[Practico Nº5 de TDA]()<br>
 
+> AVANCE DE CLASES:
+>>[]()<br>
+>>[]()<br>
+>>[]()<br>
+>>[]()<br>
+>>[]()<br>
+
 ## REPOSITORIO: U.A.G.R.M. - F.I.C.C.T.
-![repository-open-graph-template UAGRM](https://user-images.githubusercontent.com/36086876/100397386-c1e40e00-301f-11eb-8315-584dd27f953c.png)
+![github ficct](https://user-images.githubusercontent.com/36086876/119241972-45427000-bb28-11eb-9dca-8b1c3fe4f2b4.png)
