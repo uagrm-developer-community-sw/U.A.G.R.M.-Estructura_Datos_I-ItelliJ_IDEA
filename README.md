@@ -29,4 +29,4 @@ U.A.G.R.M. | Materia: Estructura de Datos I | Docente: Mario Campos Barrera | Re
 [![Youtube](https://user-images.githubusercontent.com/36086876/119243606-49758a00-bb36-11eb-811c-24ca154b4ecb.jpg)](https://www.youtube.com/playlist?list=PLZh2aEFREMpqU1Mq-Wj39gE1g6u-hHmgd)
 
 ## REPOSITORIO: U.A.G.R.M. - F.I.C.C.T.
-![github ficct](https://user-images.githubusercontent.com/36086876/119243639-9ce7d800-bb36-11eb-8ee5-eb9316f85b2f.png)
+![github ficct](https://user-images.githubusercontent.com/36086876/119243706-521a9000-bb37-11eb-8f89-c4b87e717ed1.png)
