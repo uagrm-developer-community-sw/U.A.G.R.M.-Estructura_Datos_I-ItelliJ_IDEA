@@ -12,7 +12,7 @@ U.A.G.R.M. | Materia: Estructura de Datos I | Docente: Mario Campos Barrera | Re
 >>[Parcial Nº3 ]()<br>
 
 > PRACTICOS:
->>[Practico Nº1 de TDA]()<br>
+>>[Practico Nº1 de TDA](https://github.com/uagrm-developer-community-sw/U.A.G.R.M.-Estructura_Datos_I-ItelliJ_IDEA/tree/main/Practicos/Practico1)<br>
 >>[Practico Nº2 de TDA]()<br>
 >>[Practico Nº3 de TDA]()<br> 
 >>[Practico Nº4 de TDA]()<br>
